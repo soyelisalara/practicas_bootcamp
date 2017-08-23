@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head> 
+	<meta charset="UTF-8">
+	<title>Diego El Cigala</title>
+</head>
+<!-- block 01 - header-->
+<body>
+	<div id="header" style="background-color: #383838" align="center">
+		<h1 style="font-family: arial; color: white">INDESTRUCTIBLE</h1>
+		
+	</div>
+<!-- block 02 - links --> 
+		
+	<div style="display: inline-block; background-color: #383838"; align="center">
+		<div style="font-family: arial; color: white" style="display: inline-block; background-color: #383838"; align="center">
+		<ul>Discografía </ul>
+		<ul>Noticias</ul>
+		<ul>Conciertos</ul>
+		<ul>Galería</ul>
+		<ul>Biografía</ul>
+		</div>
+	</div>
+	<div>
+	<a href="https://www.youtube.com/watch?v=jlDtwf8e5LQ">
+		<img src="C:\Ada\Practicas\Test_14-08_02\jpg\album.png"; width= 33%>
+	</a>
+	<a href="http://www.juntadeandalucia.es/export/drupaljda/1337160241origenes_de_lo_flamenco.pdf">
+		<img src="C:\Ada\Practicas\Test_14-08_02\jpg\libro.png"; width= 33%>
+	</a>
+	<a href="https://www.facebook.com/DiegoElCigala/">
+		<img src="C:\Ada\Practicas\Test_14-08_02\jpg\pelicula.png"; width= 33%>
+	</a>
+	</div>
+	<div>
+	<a href="https://www.youtube.com/watch?v=jlDtwf8e5LQ">
+		<img src="C:\Ada\Practicas\Test_14-08_02\jpg\album.png"; width= 33%>
+	</a>
+	<a href="http://www.juntadeandalucia.es/export/drupaljda/1337160241origenes_de_lo_flamenco.pdf">
+		<img src="C:\Ada\Practicas\Test_14-08_02\jpg\libro.png"; width= 33%>
+	</a>
+	<a href="https://www.facebook.com/DiegoElCigala/">
+		<img src="C:\Ada\Practicas\Test_14-08_02\jpg\pelicula.png"; width= 33%>
+	</a></div>
+
+
+
+
+
+
+</body>

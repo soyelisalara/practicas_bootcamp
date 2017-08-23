@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Probando</title>
+</head>
+<body>
+	<div id="header" align="center">
+		<h1>Prueba de titulo</h1>
+		<h2>subtitulos</h2>
+	</div>
+<!--menu-->
+	i<div id="menu">
+		<ul>CONTACTO</ul>
+		<ul>BIO</ul>
+		<ul>FECHAS</ul>
+	</div>
+	<div style="inline-block">
+		<p>Los capítulos anteriores muestran las decenas de etiquetas XHTML disponibles para marcar estructurar cada elemento individual de las páginas web: tablas, listas, enlaces, párrafos, imágenes, etc. Aunque combinando esas etiquetas es posible crear cualquier página web, no es posible hacer que las páginas muestren estructuras complejas. </p>
+
+		<p>La mayoría de páginas HTML disponen de estructuras complejas formadas por varias columnas de contenidos y otro tipo de divisiones. Utilizando exclusivamente HTML no es posible crear estas estructuras complejas, ya que es imprescindible emplear las hojas de estilos CSS. </p>
+
+		<p>No obstante, los estilos de CSS necesitan la ayuda de HTML/XHTML para crear los diseños más avanzados. En concreto, el código HTML se encarga de agrupar los elementos de la página en diferentes divisiones en función de su finalidad: la zona de la cabecera de la página, la zona de contenidos, una zona lateral para el menú y otras secciones menores, la zona del pie de página, etc.</p>
+	</div>
+	<div>
+		<img src="/jpg">
+	</div>
+</body>
