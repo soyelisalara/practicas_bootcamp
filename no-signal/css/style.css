@@ -1,0 +1,50 @@
+#container{
+	float: left;
+	height: 800px;
+	width: 1000px;
+
+}
+.una{
+	background color:#FFFFFF;
+	width: 14%;
+	float: left;
+	height: 800px;
+}
+.dos{
+	background color: #FFF600
+	width: 14%;
+	float: left;
+	height: 800px;
+
+}
+.tres{
+	background color: #00FFDE
+	width: 14%;
+	float: left;
+	height: 800px;
+}
+.cuatro{
+	background color: #00FF12
+	width: 14%;
+	float: left;
+	height: 800px;
+	color: pink;
+}
+.cinco{
+	background color: #FF00CC
+	width: 14%;
+	float: left;
+	height: 800px;
+}
+.seis{
+	background color: #FF0000
+	width: 14%;
+	float: left;
+	height: 800px;
+}
+.siete{
+	background color: #000CFF
+	width: 14%;
+	float: left;
+	height: 800px;
+}
