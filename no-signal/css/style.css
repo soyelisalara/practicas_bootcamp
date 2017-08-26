@@ -1,52 +1,51 @@
 * {
-	margin:0 auto;
-}
-.container{
+	margin: 0 auto;
+ }
+#una {
+	background-color: grey;
 	height: 800px;
-
-}
-#una{
-	background color:#FFFFFF;
-	width: 14%;
+	width: 12%;
 	float: left;
-	height: 800px;
-
 }
-#dos{
-	background color: #FFF600
-	width: 14%;
-	float: left;
+#dos {
+	background-color: yellow;
 	height: 800px;
-
+	width: 12%;
+	float: left;
 }
-#tres{
-	background color: #00FFDE
-	width: 14%;
-	float: left;
+#tres {
+	background-color: cyan;
 	height: 800px;
+	width: 12%;
+	float: left;
 }
-#cuatro{
-	background color: #00FF12
-	width: 14%;
-	float: left;
+#cuatro {
+	background-color: green;
 	height: 800px;
-	color: pink;
+	width: 12%;
+	float: left;
 }
-#cinco{
-	background color: #FF00CC
-	width: 14%;
-	float: left;
+#cinco {
+	background-color: magenta;
 	height: 800px;
+	width: 12%;
+	float: left;
 }
-#seis{
-	background color: #FF0000
-	width: 14%;
-	float: left;
+#seis {
+	background-color: red;
 	height: 800px;
+	width: 12%;
+	float: left;
 }
-#siete{
-	background color: #000CFF
-	width: 14%;
-	float: left;
+#siete {
+	background-color: blue;
 	height: 800px;
+	width: 12%;
+	float: left;
+}
+#ocho {
+	background-color: black;
+	height: 800px;
+	width: 12%;
+	float: left;
 }
