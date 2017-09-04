@@ -1,0 +1,21 @@
+*{
+	display: inline-block;
+	text-align: center;
+
+}
+.circle{
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	box-shadow: inset -10px -15px 90px #000000;
+}
+#azul{
+	background-color: blue;
+}
+
+#verde{
+	background-color: #0ED60E;
+}
+#rojo{
+	background-color: red;
+}
