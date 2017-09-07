@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding:0 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+header{
+}
+ul .columna{
+	float: left;
+	width: 100%;
+}
+ul .columna li{
+	padding:2px;
+	display: inline;
+	float: left;
+	width: 50%;
+}
+
+li {
+    display: inline;
+}
+nav ul{
+	display: inline-block;
+}
+  	                                        322	background:#C8A7D0;
+	position: relative;
+}
+nav .submenu{
+	position: absolute;
+	display: none;
+}
+.submenu2{
+	float:right;
+}
+
+nav .ancla:hover .submenu{
+	display: block;
+}
+
+nav .submenu li{
+	display: block;
+}
+nav ul li {
+
+}
