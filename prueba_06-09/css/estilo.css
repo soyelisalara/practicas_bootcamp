@@ -9,8 +9,10 @@
 body{
 	background: url(https://www.office-coffee.co.uk/public/images/sections/coffee-cup-on-decking.jpg); 
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
+/* <<<<<<<<< HEADER >>>>>>>>>>>*/
+
 header{
 	display: flex;
 	flex-direction: row;
@@ -26,19 +28,29 @@ header{
 header .logo{
 	margin-left: 30px;
 }
+header .menu a {
+	text-decoration: none;
+	color:black;
+}
 
-
-header nav .menu a hover{
+header .menu a:hover{
 	font-weight: bold; 
+	font-size: 20px;
 }
-section{
-	display: flex;
-	flex-direction: row;	
-	justify-content: center;
+/* <<<<<<<<< SECTION >>>>>>>>>>>*/
+section img {
+	width: 40%;
+	height: 40%;
 }
-section .columna img{
-	width: 400px;
-	height: 250px;
-
-	align-content: center;
+section .columna {
+	flex-direction: wrap;
+	align-content: flex-start;
+	border: 15px;
+}
+/* <<<<<<<<< ASIDE >>>>>>>>>>>*/
+aside .lado {
+	width: 200px;
+	height: 500px;
+	flex-direction: row;
+	align-content: flex-end;	
 }
